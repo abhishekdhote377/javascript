@@ -1,0 +1,3 @@
+ In this file all about rthe javascript...
+ while i learning about ther js .
+ 
